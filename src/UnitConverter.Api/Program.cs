@@ -1,0 +1,15 @@
+using UnitConverter.Core.Interfaces;
+using UnitConverter.Services;
+using UnitConverter.Services.Strategies;
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<IConversionService, ConversionService>();
+builder.Services.AddScoped<IUnitConverterStrategy, TemperatureConverterStrategy>();
+builder.Services.AddScoped<IUnitConverterStrategy, LinearConverterStrategy>();
+var app = builder.Build();
+app.UseSwagger();
+app.UseSwaggerUI();
+app.MapControllers();
+app.Run();
