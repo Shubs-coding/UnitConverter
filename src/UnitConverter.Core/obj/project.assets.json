@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/UnitConvertor/src/UnitConverter.Core/UnitConverter.Core.csproj",
+      "projectUniqueName": "/workspaces/UnitConverter/src/UnitConverter.Core/UnitConverter.Core.csproj",
       "projectName": "UnitConverter.Core",
-      "projectPath": "/workspaces/UnitConvertor/src/UnitConverter.Core/UnitConverter.Core.csproj",
+      "projectPath": "/workspaces/UnitConverter/src/UnitConverter.Core/UnitConverter.Core.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/UnitConvertor/src/UnitConverter.Core/obj/",
+      "outputPath": "/workspaces/UnitConverter/src/UnitConverter.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

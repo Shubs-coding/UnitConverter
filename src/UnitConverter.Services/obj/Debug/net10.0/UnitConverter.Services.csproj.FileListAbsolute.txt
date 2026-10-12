@@ -1,0 +1,16 @@
+/workspaces/UnitConverter/src/UnitConverter.Services/bin/Debug/net10.0/UnitConverter.Services.deps.json
+/workspaces/UnitConverter/src/UnitConverter.Services/bin/Debug/net10.0/UnitConverter.Services.dll
+/workspaces/UnitConverter/src/UnitConverter.Services/bin/Debug/net10.0/UnitConverter.Services.pdb
+/workspaces/UnitConverter/src/UnitConverter.Services/bin/Debug/net10.0/UnitConverter.Core.dll
+/workspaces/UnitConverter/src/UnitConverter.Services/bin/Debug/net10.0/UnitConverter.Core.pdb
+/workspaces/UnitConverter/src/UnitConverter.Services/obj/Debug/net10.0/UnitConverter.Services.csproj.AssemblyReference.cache
+/workspaces/UnitConverter/src/UnitConverter.Services/obj/Debug/net10.0/UnitConverter.Services.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/UnitConverter/src/UnitConverter.Services/obj/Debug/net10.0/UnitConverter.Services.AssemblyInfoInputs.cache
+/workspaces/UnitConverter/src/UnitConverter.Services/obj/Debug/net10.0/UnitConverter.Services.AssemblyInfo.cs
+/workspaces/UnitConverter/src/UnitConverter.Services/obj/Debug/net10.0/UnitConverter.Services.csproj.CoreCompileInputs.cache
+/workspaces/UnitConverter/src/UnitConverter.Services/obj/Debug/net10.0/UnitConverter.Services.sourcelink.json
+/workspaces/UnitConverter/src/UnitConverter.Services/obj/Debug/net10.0/UnitConv.3C1F0F14.Up2Date
+/workspaces/UnitConverter/src/UnitConverter.Services/obj/Debug/net10.0/UnitConverter.Services.dll
+/workspaces/UnitConverter/src/UnitConverter.Services/obj/Debug/net10.0/refint/UnitConverter.Services.dll
+/workspaces/UnitConverter/src/UnitConverter.Services/obj/Debug/net10.0/UnitConverter.Services.pdb
+/workspaces/UnitConverter/src/UnitConverter.Services/obj/Debug/net10.0/ref/UnitConverter.Services.dll

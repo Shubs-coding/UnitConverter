@@ -1,0 +1,9 @@
+/workspaces/UnitConverter/src/UnitConverter.Api/obj/Release/net10.0/UnitConverter.Api.csproj.AssemblyReference.cache
+/workspaces/UnitConverter/src/UnitConverter.Api/obj/Release/net10.0/rpswa.dswa.cache.json
+/workspaces/UnitConverter/src/UnitConverter.Api/obj/Release/net10.0/UnitConverter.Api.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/UnitConverter/src/UnitConverter.Api/obj/Release/net10.0/UnitConverter.Api.AssemblyInfoInputs.cache
+/workspaces/UnitConverter/src/UnitConverter.Api/obj/Release/net10.0/UnitConverter.Api.AssemblyInfo.cs
+/workspaces/UnitConverter/src/UnitConverter.Api/obj/Release/net10.0/UnitConverter.Api.csproj.CoreCompileInputs.cache
+/workspaces/UnitConverter/src/UnitConverter.Api/obj/Release/net10.0/UnitConverter.Api.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/UnitConverter/src/UnitConverter.Api/obj/Release/net10.0/UnitConverter.Api.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/UnitConverter/src/UnitConverter.Api/obj/Release/net10.0/UnitConverter.Api.sourcelink.json

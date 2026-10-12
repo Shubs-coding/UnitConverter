@@ -1,11 +1,30 @@
 {
   "version": 4,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "UnitConverter.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/UnitConverter.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnitConverter.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "UnitConverter.Core/1.0.0": {
+      "type": "project",
+      "path": "../UnitConverter.Core/UnitConverter.Core.csproj",
+      "msbuildProject": "../UnitConverter.Core/UnitConverter.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "UnitConverter.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/codespace/.nuget/packages/": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/UnitConvertor/src/UnitConverter.Services/UnitConverter.Services.csproj",
+      "projectUniqueName": "/workspaces/UnitConverter/src/UnitConverter.Services/UnitConverter.Services.csproj",
       "projectName": "UnitConverter.Services",
-      "projectPath": "/workspaces/UnitConvertor/src/UnitConverter.Services/UnitConverter.Services.csproj",
+      "projectPath": "/workspaces/UnitConverter/src/UnitConverter.Services/UnitConverter.Services.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/UnitConvertor/src/UnitConverter.Services/obj/",
+      "outputPath": "/workspaces/UnitConverter/src/UnitConverter.Services/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -32,7 +51,11 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/workspaces/UnitConverter/src/UnitConverter.Core/UnitConverter.Core.csproj": {
+              "projectPath": "/workspaces/UnitConverter/src/UnitConverter.Core/UnitConverter.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

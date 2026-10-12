@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F439dD9Eilo=",
+  "dgSpecHash": "uT5hSzfcFEQ=",
   "success": true,
-  "projectFilePath": "/workspaces/UnitConvertor/src/UnitConverter.Core/UnitConverter.Core.csproj",
+  "projectFilePath": "/workspaces/UnitConverter/src/UnitConverter.Core/UnitConverter.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
